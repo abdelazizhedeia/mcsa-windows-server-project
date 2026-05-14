@@ -272,15 +272,7 @@ MCSA-Windows-Server-Project/
 │
 ├── README.md
 ├── screenshots/
-│   ├── active-directory/
-│   ├── dhcp/
-│   ├── gpo/
-│   ├── vpn/
-│   ├── rras/
-│   └── storage/
 │
-├── scripts/
-│   └── startup-script.bat
 │
 └── documentation/
     └── project-report.pdf
